@@ -45,5 +45,6 @@
     "gh-pages": "^6.2.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
-  }
+  },
+  "homepage": "https://zyongshen.github.io/personal-portfolio"
 }
