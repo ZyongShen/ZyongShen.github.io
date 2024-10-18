@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efae44da.css",
+    "main.js": "/static/js/main.7747a7f2.js",
+    "static/media/Python-logo-notext.svg.png": "/static/media/Python-logo-notext.svg.d3fc9717009bf619e98c.png",
+    "static/media/linkedin_image.png": "/static/media/linkedin_image.ced85c74a40f2debed1d.png",
+    "static/media/Go-Logo_Blue.png": "/static/media/Go-Logo_Blue.6a3cd1884425f3b03c7d.png",
+    "index.html": "/index.html",
+    "main.efae44da.css.map": "/static/css/main.efae44da.css.map",
+    "main.7747a7f2.js.map": "/static/js/main.7747a7f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efae44da.css",
+    "static/js/main.7747a7f2.js"
+  ]
+}
